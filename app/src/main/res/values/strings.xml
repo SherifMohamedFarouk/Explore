@@ -2,4 +2,5 @@
     <string name="app_name">Near By Places</string>
     <string name="retry">Retry</string>
     <string name="post_error">An error occurred while loading </string>
+    <string name="single_update">Single update</string>
 </resources>
